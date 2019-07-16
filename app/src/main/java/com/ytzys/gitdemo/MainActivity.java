@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        // 修改了另外一部分禅道缺陷
         // 修改了禅道缺陷
         // 开发了新功能
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
